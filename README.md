@@ -8,8 +8,8 @@
 
 Курсовой проект содержит:
 - [Расчётно пояснительную записку](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/RPZ)
-- Кинематическую схему гиростабилизатора
-- Общий вид гиростабилизатора
+- [Кинематическую схему гиростабилизатора](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/Kinematic)
+- [Общий вид гиростабилизатора](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/OB)
 - Чертёж чувствительного элемента гиростабилизатора (МГТУ-05)
 - Электрическая схема принципиальная
 - Расчёт устойчивости каналов стабилизации
