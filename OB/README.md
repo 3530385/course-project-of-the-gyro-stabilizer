@@ -7,3 +7,4 @@
 ![image](https://user-images.githubusercontent.com/45338087/178806829-b609d8cf-dd1a-437a-b49a-38fdc8e07495.png)
 
 Чертёж гиростабилизатора разработан в САПР "Компас 3D".
+Общий вид разработан по [3D Модели](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/OB/3D), созданной в САПР "SOLIDWORKS"  и "Компас 3D"
