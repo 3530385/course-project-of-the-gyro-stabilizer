@@ -10,7 +10,7 @@
 - [Расчётно пояснительную записку](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/RPZ)
 - [Кинематическую схему гиростабилизатора](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/Kinematic)
 - [Общий вид гиростабилизатора](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/OB)
-- Чертёж чувствительного элемента гиростабилизатора (МГТУ-05)
-- Электрическая схема принципиальная
-- Расчёт устойчивости каналов стабилизации
-- Схему сборки и размерную цепь
+- [Чертёж чувствительного элемента гиростабилизатора (МГТУ-05)](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/MGTU-05)
+- [Электрическая схема принципиальная](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/Electric)
+- [Расчёт устойчивости каналов стабилизации](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/Ust)
+- [Схему сборки и размерную цепь](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/Technology)
