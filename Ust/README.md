@@ -4,6 +4,6 @@
 ![image](https://user-images.githubusercontent.com/45338087/179017906-536712e1-3f23-4e6e-a5f3-c1508db71c5a.png)
 
 Для построения вида переходного процесса и логарифмических частотных характеристик использовался программный комплекс Simulink системы автоматизированного проектирования MATLAB ([файлы Simulink](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/Ust/SIMULINK-files)).  Для улучшения переходного процесса а также для увеличения запаса устойчивости по фазе в цепи обратной связи было использовано интегро-дифференциальное корректирующее звено. Передаточная функция корректирующего звена имеет вид:
-$$W_p (s)=\frac{T_1\cdot s+1}{T_2\cdot s+1}\cdot \frac{1}/{T_3\cdot s+1}$$
+$$W_p (s)=\frac{T_1\cdot s+1}{T_2\cdot s+1}\cdot \frac{1}{T_3\cdot s+1}$$
 Постоянные времени $T_1, T_2,T_3$ были подобраны с использованием [программы](https://github.com/3530385/course-project-of-the-gyro-stabilizer/tree/main/Ust/bodestep-prog), написанной на языке программирования Python.  
 
